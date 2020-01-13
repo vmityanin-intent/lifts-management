@@ -2,9 +2,12 @@ Lift management simulation
 
 This application is designed for dynamic quantity of floors and lifts
 
+Prerequisites:
+Java 11, Apache Maven 3.x+
+
 Project build
 
-This is a maven project, to build it run: mvn clean install;
+As this is a maven project, to build it run: mvn clean install;
 after execution artifact lift-management-1.0-SNAPSHOT.jar will be created.
 Tests is the subject for future development.
 
